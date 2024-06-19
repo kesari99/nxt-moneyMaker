@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/nxt-moneyMaker/static/css/main.e8df531a.chunk.css",
+    "main.js": "/nxt-moneyMaker/static/js/main.a9001bec.chunk.js",
+    "main.js.map": "/nxt-moneyMaker/static/js/main.a9001bec.chunk.js.map",
+    "runtime-main.js": "/nxt-moneyMaker/static/js/runtime-main.a6459ab3.js",
+    "runtime-main.js.map": "/nxt-moneyMaker/static/js/runtime-main.a6459ab3.js.map",
+    "static/js/2.452b8cc6.chunk.js": "/nxt-moneyMaker/static/js/2.452b8cc6.chunk.js",
+    "static/js/2.452b8cc6.chunk.js.map": "/nxt-moneyMaker/static/js/2.452b8cc6.chunk.js.map",
+    "index.html": "/nxt-moneyMaker/index.html",
+    "static/css/main.e8df531a.chunk.css.map": "/nxt-moneyMaker/static/css/main.e8df531a.chunk.css.map",
+    "static/js/2.452b8cc6.chunk.js.LICENSE.txt": "/nxt-moneyMaker/static/js/2.452b8cc6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a6459ab3.js",
+    "static/js/2.452b8cc6.chunk.js",
+    "static/css/main.e8df531a.chunk.css",
+    "static/js/main.a9001bec.chunk.js"
+  ]
+}
